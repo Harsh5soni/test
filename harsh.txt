@@ -1,0 +1,7 @@
+my name is harsh soni
+student at KIET GROUP OF INSTITUTIgN;
+ git vi name.h
+ c
+ ^c^q
+ ^q
+ `
